@@ -16,11 +16,8 @@ A simple and efficient native Android application designed for managing daily ho
 
 ## 📸 Screenshots
 
-| Order Form Screen | Input Validation Toast |
-|:---:|:---:|
-| ![Order Form](<img width="720" height="1600" alt="WhatsApp Image 2026-10-09 at 8 03 24 AM" src="https://github.com/user-attachments/assets/489d7980-3b85-4dc4-989e-41a82b5fe88a" />) | ![Validation](<img width="720" height="1600" alt="WhatsApp Image 2026-10-09 at 8 03 23 AM" src="https://github.com/user-attachments/assets/81eae8cc-81e9-4024-8b4a-7a5a80fedf9a" />) |
-
-*(Note: Add your screenshot images inside a `screenshots` folder in your repository)*
+<img width="720" height="1600" alt="WhatsApp Image 2026-10-09 at 8 03 24 AM" src="https://github.com/user-attachments/assets/489d7980-3b85-4dc4-989e-41a82b5fe88a" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-10-09 at 8 03 23 AM" src="https://github.com/user-attachments/assets/81eae8cc-81e9-4024-8b4a-7a5a80fedf9a" />
 
 ---
 
