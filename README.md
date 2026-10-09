@@ -1,7 +1,17 @@
 # 🍜 Idiyappam Order Management App (இடியாப்பம் ஆர்டர் செயலி)
 
 A simple and efficient native Android application designed for managing daily homemade Idiyappam orders. Built with Java and XML for the Android front-end, integrated with Google Firebase as the real-time cloud backend.
+---
 
+## 📥 Download APK
+
+நேரடியாக செயலியை மொபைலில் நிறுவிப் பயன்படுத்த கீழே உள்ள பட்டனை கிளிக் செய்து டவுன்லோட் செய்யவும்:
+
+[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](இங்கே_உங்கள்_APK_லிங்க்கை_பேஸ்ட்_செய்யவும்)
+
+> **மாற்று நேரடி லிங்க்:** [Click here to download app-release.apk](இங்கே_உங்கள்_APK_லிங்க்கை_பேஸ்ட்_செய்யவும்)
+
+---
 ---
 
 ## 📱 Features
