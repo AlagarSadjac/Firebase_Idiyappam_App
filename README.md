@@ -43,6 +43,17 @@ A simple and efficient native Android application designed for managing daily ho
 
 ## 🚀 Setup & Installation
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/<your-repo-name>.git
+1. Clone the repository:
+git clone https://github.com/AlagarSadjac/idiyappam_android_firebase.git
+
+2. Open the project:
+- Open Android Studio and click 'Open'
+- Select the cloned 'idiyappam_android_firebase' folder
+
+3. Firebase Configuration:
+- Go to Firebase Console and add your Android project
+- Download google-services.json and put it inside the app/ directory
+
+4. Build & Run:
+- Click 'Sync Project with Gradle Files' in Android Studio
+- Run the app on your Android device or emulator
