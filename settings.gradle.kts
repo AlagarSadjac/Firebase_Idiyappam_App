@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Firebase_Idiyappam_App"
+rootProject.name = "idiyappam-android-firebase"
 include(":app")
  
