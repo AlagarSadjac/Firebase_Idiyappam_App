@@ -70,5 +70,10 @@ The main goal of this application is to digitize daily local business operations
 
 ---
 
+## 👨‍💻 Developed By
+Alagarsamy — Software Developer
+
+---
+
 ## ⭐ Support
 If you find this project practical and well-structured, please give it a **Star (⭐)** on GitHub!
