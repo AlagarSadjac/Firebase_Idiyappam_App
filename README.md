@@ -42,9 +42,10 @@ This app automates and streamlines order collection for a local homemade food bu
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/489d7980-3b85-4dc4-989e-41a82b5fe88a" width="30%" alt="Idiyappam App Screen 1" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/81eae8cc-81e9-4024-8b4a-7a5a80fedf9a" width="30%" alt="Idiyappam App Screen 2" />
+  <img src="https://github.com/user-attachments/assets/df2f4dc9-ed52-495d-8d73-9a6a26d096bd" width="22%" />
+  <img src="https://github.com/user-attachments/assets/1efbec99-0359-44e9-83f0-6a531e154099" width="22%" />
+  <img src="https://github.com/user-attachments/assets/94f6c156-4f8d-4253-a623-6c35e40b26e7" width="22%" />
+  <img src="https://github.com/user-attachments/assets/6235c161-ce81-415c-b1ed-d87ac9ee4348" width="22%" />
 </p>
 
 ---
@@ -63,7 +64,6 @@ The main goal of this application is to digitize daily local business operations
 ---
 
 ## 🔮 Future Updates
-* 🔔 Push notifications for order status alerts.
 * 📊 Daily sales and quantity summary dashboard.
 * 🖨️ Automated invoice/receipt PDF generator.
 * 💳 Payment gateway integration (UPI / Online Payments).
