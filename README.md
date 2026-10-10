@@ -42,11 +42,11 @@ This app automates and streamlines order collection for a local homemade food bu
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6235c161-ce81-415c-b1ed-d87ac9ee4348" width="22%" />
-  <img src="https://github.com/user-attachments/assets/94f6c156-4f8d-4253-a623-6c35e40b26e7" width="22%" />
-  <img src="https://github.com/user-attachments/assets/df2f4dc9-ed52-495d-8d73-9a6a26d096bd" width="22%" />
-  <img src="https://github.com/user-attachments/assets/1efbec99-0359-44e9-83f0-6a531e154099" width="22%" />
-  <img src="https://github.com/user-attachments/assets/282064a7-b584-4ee4-8392-e0ee8727eef6" width="22%" />
+  <img src="https://github.com/user-attachments/assets/6235c161-ce81-415c-b1ed-d87ac9ee4348" width="18%" />
+  <img src="https://github.com/user-attachments/assets/94f6c156-4f8d-4253-a623-6c35e40b26e7" width="18%" />
+  <img src="https://github.com/user-attachments/assets/df2f4dc9-ed52-495d-8d73-9a6a26d096bd" width="18%" />
+  <img src="https://github.com/user-attachments/assets/1efbec99-0359-44e9-83f0-6a531e154099" width="18%" />
+  <img src="https://github.com/user-attachments/assets/282064a7-b584-4ee4-8392-e0ee8727eef6" width="18%" />
   </p>
 
 ---
